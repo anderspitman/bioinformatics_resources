@@ -3,3 +3,6 @@
 
 # File Formats
 [SAM Read Groups](https://software.broadinstitute.org/gatk/guide/article?id=6472)
+
+# Galaxy
+[David Coil Videos](https://www.youtube.com/user/Arturgreensward/videos)
